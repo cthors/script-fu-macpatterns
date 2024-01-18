@@ -1,5 +1,5 @@
 # script-fu-scripts
-custom scripts for GNU Image Manipulation Program
+Custom scripts for GNU Image Manipulation Program
 
 ### layers-to-patterns.scm:
 Saves each layer in the current document to a .pat pattern file for use with the paint can tool, etc.
