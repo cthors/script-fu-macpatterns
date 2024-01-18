@@ -1,4 +1,4 @@
-# script-fu-scripts
+# script-fu-macpatterns
 Custom scripts for GNU Image Manipulation Program
 
 ### layers-to-patterns.scm:
