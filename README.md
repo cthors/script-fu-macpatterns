@@ -1,5 +1,5 @@
 # script-fu-macpatterns
-Custom scripts for GNU Image Manipulation Program
+A custom script for GNU Image Manipulation Program which turns each layer in the .xcf file into a pattern. Comes with a sample file which adds MacPaint patterns to the GIMP.
 
 ### layers-to-patterns.scm:
 Saves each layer in the current document to a .pat pattern file for use with the paint can tool, etc.
